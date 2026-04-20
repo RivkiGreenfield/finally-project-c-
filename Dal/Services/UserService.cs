@@ -1,5 +1,6 @@
 ﻿using Dal.Api;
 using Dal.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,9 +16,31 @@ namespace Dal.Services
         {
             this.dbm = dbm;
         }
-        public Task<bool> Create(User t)
+        public async Task<bool> Create(User t)
         {
-            throw new NotImplementedException();
+            if (t == null)
+                throw new ArgumentNullException("test");
+            if (t.Id == null)
+                throw new Exception("id can't be null");
+            //var existingCustomer = dbm.CustomersTbls
+            //                     .FirstOrDefault(c => c.Id == t.Id);
+
+            //if (existingCustomer != null)
+            //{
+            //    // מנתק את הלקוח מהמעקב אם הוא כבר במעקב
+            //    dbm.Entry(existingCustomer).State = EntityState.Detached;
+            //}
+            //try
+            //{
+                dbm.Users.Add(t);
+                try { await dbm.SaveChangesAsync(); }
+                catch
+                {
+                    dbm.Users.Local.Remove(t);
+                }
+            
+           
+            return true;
         }
 
         public Task<bool> Delete(User t)
@@ -41,6 +64,10 @@ namespace Dal.Services
         public Task<bool> Update(User t)
         {
             throw new NotImplementedException();
+        }
+        public async Task< User> GetUserByName(string userName)
+        {
+            return dbm.Users.FirstOrDefault(u => u.UserName == userName);
         }
     }
 }

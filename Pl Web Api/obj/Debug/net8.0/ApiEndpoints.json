@@ -197,6 +197,32 @@
     ]
   },
   {
+    "ContainingType": "Pl_Web_Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Bl.Models.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Bl.Models.JwtToken",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Pl_Web_Api.Controllers.BranchesController",
     "Method": "AddBranch",
     "RelativePath": "api/Branches/AddBranch",

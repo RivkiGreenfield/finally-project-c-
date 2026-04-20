@@ -1,4 +1,6 @@
-﻿namespace Bl.Api
+﻿using Bl.Services;
+
+namespace Bl.Api
 {
     public interface IBl
     {
@@ -18,5 +20,6 @@
         IBlQuestions Questions { get; }
         IBlUser Users { get; }
         IBlUserVertificationToken UserVertificationTokens { get; }
+        BlAuthService AuthService { get; }
     }
 }

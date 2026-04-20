@@ -10,6 +10,6 @@ namespace Dal.Api
     public interface IUsers : ICrud<User>
     {
         public Task<User> GetByPassword(int id);
-
+        public Task<User> GetUserByName(string userName);
     }
 }
