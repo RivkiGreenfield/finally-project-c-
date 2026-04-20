@@ -1,0 +1,607 @@
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\appsettings.Development.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\appsettings.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.staticwebassets.endpoints.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.exe
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Pl Web Api.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\AutoMapper.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Azure.Core.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\scopedcss\bundle\Pl Web Api.styles.css
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.Up2Date
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\refint\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\Pl Web Api.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Dal\Pl Web Api\obj\Debug\net8.0\ref\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\appsettings.Development.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\appsettings.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.staticwebassets.endpoints.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.exe
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.deps.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\AutoMapper.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Azure.Core.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Bl.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Dal.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\scopedcss\bundle\Pl Web Api.styles.css
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.Up2Date
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\refint\Pl Web Api.dll
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.pdb
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה א תשפה\תלמידות\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\ref\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\appsettings.Development.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\appsettings.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.staticwebassets.endpoints.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.exe
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.runtimeconfig.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Pl Web Api.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\AutoMapper.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Azure.Core.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Azure.Identity.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Memory.Data.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Security.Permissions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\scopedcss\bundle\Pl Web Api.styles.css
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.development.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.Up2Date
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\refint\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\Pl Web Api.genruntimeconfig.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\obj\Debug\net8.0\ref\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Humanizer.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.CodeDom.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Composition.Convention.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project\Pl Web Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\appsettings.Development.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\appsettings.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.staticwebassets.endpoints.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.exe
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.deps.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.runtimeconfig.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\AutoMapper.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Azure.Core.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Azure.Identity.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Humanizer.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.CodeDom.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Convention.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Memory.Data.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Security.Permissions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Bl.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Dal.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Bl.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\bin\Debug\net8.0\Dal.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.AssemblyReference.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.GeneratedMSBuildEditorConfig.editorconfig
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfoInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.CoreCompileInputs.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cs
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\scopedcss\bundle\Pl Web Api.styles.css
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.development.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.Up2Date
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\refint\Pl Web Api.dll
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.pdb
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.genruntimeconfig.cache
+A:\שנה ב\C#\#הפרויקט רבקי והניה\Project - Copy\Pl Web Api\obj\Debug\net8.0\ref\Pl Web Api.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\appsettings.Development.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\appsettings.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.staticwebassets.endpoints.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.exe
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.deps.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.runtimeconfig.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Pl Web Api.pdb
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\AutoMapper.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Azure.Core.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Humanizer.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Bl.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Dal.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Bl.pdb
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Dal.pdb
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.AssemblyReference.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfoInputs.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.AssemblyInfo.cs
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.CoreCompileInputs.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cs
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\scopedcss\bundle\Pl Web Api.styles.css
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.csproj.Up2Date
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.dll
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\refint\Pl Web Api.dll
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.pdb
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.genruntimeconfig.cache
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\ref\Pl Web Api.dll
+D:\c#\Project - Copy\Pl Web Api\obj\Debug\net8.0\Pl Web Api.sourcelink.json
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\MailKit.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\MimeKit.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\c#\Project - Copy\Pl Web Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Project - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\models\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\models\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\pointtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\pointtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\services\\testsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\services\\testsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Converts.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Models\\Converts.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\Converts.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Models\\Converts.cs",
+              "RelativeToolTip": "Bl\\Models\\Converts.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAwOQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:45:30.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestsService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Services\\TestsService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\TestsService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Services\\TestsService.cs",
+              "RelativeToolTip": "Dal\\Services\\TestsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:44:27.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointTestController.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\PointTestController.cs",
+              "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\PointTestController.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\PointTestController.cs",
+              "RelativeToolTip": "Pl Web Api\\Controllers\\PointTestController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:38:55.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
