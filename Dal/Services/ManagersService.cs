@@ -1,5 +1,6 @@
 ﻿using Dal.Api;
 using Dal.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -68,6 +69,10 @@ namespace Dal.Services
                 }
             }
             return true;
+        }
+        public async Task<ManagersTbl> GetByUserId(int userId)
+        {
+            return dbm.ManagersTbls.ToListAsync().Result.Find(x => x.UserId == userId);
         }
     }
 }

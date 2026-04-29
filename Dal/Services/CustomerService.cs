@@ -113,6 +113,10 @@ namespace Dal.Services
                     
             return true;
         }
+        public async Task<CustomersTbl> GetByUserId(int userId)
+        {
+            return dbm.CustomersTbls.ToListAsync().Result.Find(x => x.UserId == userId);
+        }
     }
 
 }

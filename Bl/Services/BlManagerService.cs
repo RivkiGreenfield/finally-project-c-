@@ -43,6 +43,12 @@ namespace Bl.Services
         {
             throw new NotImplementedException();
         }
+
+        public async Task<BlManagers> GetByUserId(int userId)
+        {
+           return Converts.ConvertFromManagerToBlManager(dal.Managers.GetByUserId(userId).Result);
+        }
+
         public async Task<bool> Update(BlManagers t)
         {
            return await dal.Managers.Update(Converts.ConvertFromBlManagerTomanager(t));

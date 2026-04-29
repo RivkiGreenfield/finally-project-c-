@@ -53,5 +53,10 @@ namespace Bl.Services
         {
             throw new NotImplementedException();
         }
+
+        public async Task<BlCompanies> GetByUserId(int userId)
+        {
+            return Converts.ConvertFromCompaniesToBlCompanies( dal.Companies.GetByUserId(userId).Result);
+        }
     }
 }

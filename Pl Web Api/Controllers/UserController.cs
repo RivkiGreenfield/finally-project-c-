@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pl_Web_Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class UserController : ControllerBase
     {
@@ -20,6 +20,17 @@ namespace Pl_Web_Api.Controllers
         public async Task<BlUser> GetByPassword([FromBody] int value)
         {
             return await _bl.Users.GetByPassword(value);
+        }
+        [HttpPost]
+        public async Task<int> CheckAuth([FromBody] LoginDto value)
+        {
+            return await _bl.Users.CheckAuth(value);
+        }
+
+        [HttpGet]
+        public async Task<List<BlUser>> GetAll()
+        {
+            return await _bl.Users.GetAll();
         }
 
     }

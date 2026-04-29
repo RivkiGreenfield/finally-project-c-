@@ -28,7 +28,6 @@ namespace Bl
         public IBlQuestions Questions { get; }
         public IBlUser Users { get; }
         public IBlUserVertificationToken UserVertificationTokens { get; }
-        public BlAuthService AuthService { get; }
         public BlManager()
         {
 
@@ -50,7 +49,6 @@ namespace Bl
             services.AddSingleton<IBlAnswers, BlAnswersService>();
             services.AddSingleton<IBlUser, BlUserService>();
             services.AddSingleton<IBlUserVertificationToken, BlUserVertificationTokenService>();
-            services.AddSingleton<BlAuthService, BlAuthService>();
             //services.AddSingleton<IMapper, Mapper>();
             //services.AddAutoMapper(typeof(Program).Assembly); // Scans the current assembly
 
@@ -71,7 +69,6 @@ namespace Bl
             Questions = servicesProvider.GetRequiredService<IBlQuestions>();
             Users = servicesProvider.GetRequiredService<IBlUser>();
             UserVertificationTokens = servicesProvider.GetRequiredService<IBlUserVertificationToken>();
-            AuthService = servicesProvider.GetRequiredService<BlAuthService>();
         }
     }
 }

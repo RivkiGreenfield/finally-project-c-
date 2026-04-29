@@ -14,14 +14,15 @@ namespace Dal.Services
 
         public async Task<bool> Create(CompaniesTbl t)
         {
-            
+
             if (t == null)
                 throw new ArgumentNullException("company");
             if (t.Id == null)
                 throw new Exception("id can't be null");
-            try { 
-            dbManager.CompaniesTbls.Add(t);
-            await dbManager.SaveChangesAsync();
+            try
+            {
+                dbManager.CompaniesTbls.Add(t);
+                await dbManager.SaveChangesAsync();
             }
             catch
             {
@@ -50,6 +51,12 @@ namespace Dal.Services
         {
             return dbManager.CompaniesTbls.ToList().Find(x => x.Id == t);
         }
+
+        public async Task<CompaniesTbl> GetByUserId(int userId)
+        {
+           return  dbManager.CompaniesTbls.ToListAsync().Result.Find(x=> x.UserId == userId);
+        }
+
         public async Task<bool> Update(CompaniesTbl t)
         {
             CompaniesTbl c = dbManager.CompaniesTbls.ToList().Where(c => c.Id.Equals(t.Id)).FirstOrDefault();

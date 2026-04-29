@@ -10,5 +10,6 @@ namespace Dal.Api
     public interface ICompanies:ICrud<CompaniesTbl>
     {
         public Task<CompaniesTbl> Get(int id);
+        public Task<CompaniesTbl> GetByUserId(int userId);
     }
 }

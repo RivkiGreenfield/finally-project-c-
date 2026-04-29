@@ -11,6 +11,7 @@ namespace Bl.Api
     public interface IBlUser:IBlCrud<BlUser>
     {
         public Task<BlUser> GetByPassword(int id);
+        public Task<int> CheckAuth(LoginDto login);
 
     }
 }

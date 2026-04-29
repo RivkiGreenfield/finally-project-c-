@@ -22,16 +22,7 @@ namespace Dal.Services
                 throw new ArgumentNullException("test");
             if (t.Id == null)
                 throw new Exception("id can't be null");
-            //var existingCustomer = dbm.CustomersTbls
-            //                     .FirstOrDefault(c => c.Id == t.Id);
-
-            //if (existingCustomer != null)
-            //{
-            //    // מנתק את הלקוח מהמעקב אם הוא כבר במעקב
-            //    dbm.Entry(existingCustomer).State = EntityState.Detached;
-            //}
-            //try
-            //{
+       
                 dbm.Users.Add(t);
                 try { await dbm.SaveChangesAsync(); }
                 catch
@@ -48,16 +39,16 @@ namespace Dal.Services
             throw new NotImplementedException();
         }
 
-        public Task<List<User>> GetAll()
+        public async Task<List<User>> GetAll()
         {
-            throw new NotImplementedException();
+            return await dbm.Users.ToListAsync();
         }
 
         public Task<User> GetById(int t)
         {
             throw new NotImplementedException();
         }
-        public async Task<User> GetByPassword(int t)
+        public async Task<User> GetByPassword(string t)
         {
             return dbm.Users.ToList().Find(x  => x.Password == t)?? throw new Exception("The customer isnt exist!!");
         }
@@ -68,6 +59,11 @@ namespace Dal.Services
         public async Task< User> GetUserByName(string userName)
         {
             return dbm.Users.FirstOrDefault(u => u.UserName == userName);
+        }
+
+        public Task<User> GetByPassword(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

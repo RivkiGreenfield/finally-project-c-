@@ -32,45 +32,51 @@ namespace Pl_Web_Api.Controllers
                 Grade = ""
             };
             await _bl.Test.Create(newTest);
-            for (int i = 0; i < value.Length; i++)
+            for (int i = 0; i < value.Length;i++)
             {
-                int Score = 0;
-                BlPointsTest newPointTest;
-                BlAnswers a = Answers.Find(x => x.QuestionId.Equals(value[i].id) && x.Text == value[i].text && x.IsCorrect);
-                if (a != null)
+                if (Questions.Find(x => x.Id == value[i].id && x.IsAmerican) != null)
                 {
-                    AllScore += Score = Questions.Find(x => x.Id == value[i].id).Score;
-                }
-
-
-                List<BlPointsTest> PointTest = _bl.PointsTest.GetAll().Result;
-                BlPointsTest q = PointTest.Find(x => x.PropertyId == Questions.Find(x => x.Id == value[i].id).PropertyId);
-                BlTest tes = _bl.Test.GetAll().Result.Find(x => x.CustId == newTest.CustId);
-                if (q != null)
-                {
-                    newPointTest = new()
+                    int Score = 0;
+                    BlPointsTest newPointTest;
+                    BlAnswers a = Answers.Find(x => x.QuestionId.Equals(value[i].id) && x.Id.ToString() == value[i].text && x.IsCorrect);
+                    if (a != null)
                     {
-                        Id = q.Id,
-                        TestId = tes.TestId,
-                        PropertyId = Questions.Find(x => x.Id == value[i].id).PropertyId,
-                        GradeProperty = Score + (PointTest.Find(x => x.PropertyId == Questions.Find(x => x.Id == value[i].id).PropertyId).GradeProperty)
+                        Score = Questions.Find(x => x.Id == value[i].id).Score;
+                    }
 
-                    };
-                    await _bl.PointsTest.Update(newPointTest);
+
+                    List<BlPointsTest> PointTest = _bl.PointsTest.GetAll().Result;
+                    BlPointsTest q = PointTest.Find(x => x.PropertyId == Questions.Find(x => x.Id == value[i].id).PropertyId);
+                    BlTest tes = _bl.Test.GetAll().Result.Find(x => x.CustId == newTest.CustId);
+                    if (q != null)
+                    {
+                        newPointTest = new()
+                        {
+                            Id = q.Id,
+                            TestId = tes.TestId,
+                            PropertyId = q.PropertyId,
+                            GradeProperty = Score + q.GradeProperty
+
+                        };
+                        await _bl.PointsTest.Update(newPointTest);
+                    }
+                    else
+                    {
+                        newPointTest = new()
+                        {
+                            TestId = tes.TestId,
+                            PropertyId = Questions.Find(x => x.Id == value[i].id).PropertyId,
+                            GradeProperty = Score
+
+                        };
+                        await _bl.PointsTest.Create(newPointTest);
+                    }
+
                 }
                 else
                 {
-                    newPointTest = new()
-                    {
-                        TestId = tes.TestId,
-                        PropertyId = Questions.Find(x => x.Id == value[i].id).PropertyId,
-                        GradeProperty = Score
-
-                    };
-                    await _bl.PointsTest.Create(newPointTest);
+                    //פענוח תשובה לא אמריקאית
                 }
-
-
             }
             return true;
 

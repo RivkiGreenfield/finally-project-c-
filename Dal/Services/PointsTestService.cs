@@ -1,5 +1,6 @@
 ﻿using Dal.Api;
 using Dal.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Dal.Services
 {
-    public class PointsTestService:IPointsTest
+    public class PointsTestService : IPointsTest
     {
         DbManager dbm;
         public PointsTestService(DbManager dbm)
@@ -55,22 +56,27 @@ namespace Dal.Services
         }
         public async Task<bool> Update(PointsTestTbl t)
         {
-            PointsTestTbl c = dbm.PointsTestTbls.ToList().Where(z => z.Id.Equals(t.Id)).FirstOrDefault();
-            if (c == null)
+
+            var existingPost = await dbm.PointsTestTbls
+                .FirstOrDefaultAsync(p => p.Id == t.Id);
+
+            if (existingPost == null)
                 return false;
 
-            var vv = t.GetType().GetProperties();
-            var cc = c.GetType().GetProperties();
-            foreach (var item in vv)
+            existingPost.TestId = t.TestId;
+            //existingPost.Property = t.Property;
+            //existingPost.Test = t.Test;
+            existingPost.PropertyId = t.PropertyId;
+            existingPost.GradeProperty = t.GradeProperty;
+            dbm.PointsTestTbls.Update(existingPost);
+            try
             {
-                var destProperty = cc.FirstOrDefault(p => p.Name == item.Name && p.CanWrite);
-                if (destProperty != null)
-                {
-                    var val = item.GetValue(t);
-                    destProperty.SetValue(c, val);
-                }
+                await dbm.SaveChangesAsync();
             }
-
+            catch
+            {
+                return false;
+            }
             return true;
         }
     }

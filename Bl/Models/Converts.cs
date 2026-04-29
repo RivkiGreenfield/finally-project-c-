@@ -52,7 +52,7 @@ namespace Bl.Models
             c.Id = companies.Id;
             c.Name = companies.Name;
             c.Email = companies.Email;
-
+            c.UserId = companies.UserId;
 
             return c;
         }
@@ -62,6 +62,8 @@ namespace Bl.Models
             c.Id = companies.Id;
             c.Name = companies.Name;
             c.Email = companies.Email;
+            c.UserId = companies.UserId;
+
             return c;
 
         }

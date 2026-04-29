@@ -10,6 +10,7 @@ namespace Bl.Api
     public interface IBlCustomer: IBlCrud<BlCustomer>
     {
         public Task<BlCustomer> Get(string id);
+        public Task<BlCustomer> GetByUserId(int userId);
 
     }
 }

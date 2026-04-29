@@ -14,6 +14,7 @@ namespace Bl.Models
         public string Name { get; set; } = null!;
 
         public string Email { get; set; } = null!;
+        public int UserId { get; set; }
 
         //public  List<PostsTbl> PostsTbls { get; set; } = new List<PostsTbl>();
     }

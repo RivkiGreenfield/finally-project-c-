@@ -22,6 +22,12 @@ namespace Pl_Web_Api.Controllers
             return await bl.Customers.GetAll();
         }
 
+        [HttpGet]
+        public async Task<BlCustomer> GetByUserId(int userId)
+        {
+            return await bl.Customers.GetByUserId(userId);
+        }
+
         [HttpPost]
         public async Task<IActionResult> AddCustomer([FromForm] BlCustomer customer, IFormFile cvFile)
         {

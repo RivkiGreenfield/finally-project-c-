@@ -71,6 +71,11 @@ namespace Bl.Services
         {
             throw new NotImplementedException();
         }
+
+        public async Task<BlCustomer> GetByUserId(int userId)
+        {
+           return Converts.ConvertFromCustomerToBlCustomer(dal.Customers.GetByUserId(userId).Result);
+        }
     }
 }
 //using Bl.Api;

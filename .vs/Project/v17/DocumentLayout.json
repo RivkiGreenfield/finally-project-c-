@@ -3,63 +3,64 @@
   "WorkspaceRootPath": "D:\\c#\\Project - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\services\\blauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\services\\blauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\services\\bltokenservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\services\\bltokenservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\api\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\api\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\services\\uservetificationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\services\\uservetificationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\api\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\api\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\services\\testsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\services\\testsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECT___COPY_DAL_DATABASE_DBPROJECT.MDF/True/SqlTable/dbo.Status_tbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\services\\bluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\services\\bluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\models\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\models\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\models\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\models\\converts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\models\\blcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\models\\companiestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\models\\companiestbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\services\\blanswersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\services\\blanswersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\api\\iblmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\api\\iblmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|d:\\c#\\project - copy\\bl\\services\\blmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B76E66F-C3A6-4657-BAC3-54880A0D1A70}|Bl\\Bl.csproj|solutionrelative:bl\\services\\blmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|d:\\c#\\project - copy\\pl web api\\controllers\\pointtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6550D325-A82E-4418-B54A-A4909BB73D4B}|Pl Web Api\\Pl Web Api.csproj|solutionrelative:pl web api\\controllers\\pointtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|d:\\c#\\project - copy\\dal\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B3CD5-7A51-47DD-B451-9B46B514C0E7}|Dal\\Dal.csproj|solutionrelative:dal\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,186 +85,199 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlAuthService.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Services\\BlAuthService.cs",
-              "RelativeDocumentMoniker": "Bl\\Services\\BlAuthService.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Services\\BlAuthService.cs",
-              "RelativeToolTip": "Bl\\Services\\BlAuthService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CompaniesTbl.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Models\\CompaniesTbl.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\CompaniesTbl.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Models\\CompaniesTbl.cs",
+              "RelativeToolTip": "Dal\\Models\\CompaniesTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:38:32.799Z",
+              "WhenOpened": "2026-04-27T12:20:11.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBl.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Api\\IBl.cs",
-              "RelativeDocumentMoniker": "Bl\\Api\\IBl.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Api\\IBl.cs",
-              "RelativeToolTip": "Bl\\Api\\IBl.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:10:54.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Pl Web Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:54:52.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Program.cs",
-              "RelativeDocumentMoniker": "Pl Web Api\\Program.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Program.cs",
-              "RelativeToolTip": "Pl Web Api\\Program.cs",
-              "ViewState": "AgIAACsBAAAAAAAAAAAgwO8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:57:32.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Api\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Bl\\Api\\ITokenService.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Api\\ITokenService.cs",
-              "RelativeToolTip": "Bl\\Api\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:36:31.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlTokenService .cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Services\\BlTokenService .cs",
-              "RelativeDocumentMoniker": "Bl\\Services\\BlTokenService .cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Services\\BlTokenService .cs",
-              "RelativeToolTip": "Bl\\Services\\BlTokenService .cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:36:03.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserVetificationTokenService.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Services\\UserVetificationTokenService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\UserVetificationTokenService.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Services\\UserVetificationTokenService.cs",
-              "RelativeToolTip": "Dal\\Services\\UserVetificationTokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:34:29.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUsers.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Api\\IUsers.cs",
-              "RelativeDocumentMoniker": "Dal\\Api\\IUsers.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Api\\IUsers.cs",
-              "RelativeToolTip": "Dal\\Api\\IUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:34:12.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuestionsController.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\QuestionsController.cs",
-              "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\QuestionsController.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\QuestionsController.cs",
-              "RelativeToolTip": "Pl Web Api\\Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T10:51:39.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\UserController.cs",
               "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "Pl Web Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T10:51:28.944Z"
+              "WhenOpened": "2026-04-26T14:27:18.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Dal\\Models\\User.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Models\\User.cs",
-              "RelativeToolTip": "Dal\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T10:51:25.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dbo.Status_tbl.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECT___COPY_DAL_DATABASE_DBPROJECT.MDF/True/SqlTable/dbo.Status_tbl.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECT___COPY_DAL_DATABASE_DBPROJECT.MDF/True/SqlTable/dbo.Status_tbl.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-04-20T10:50:46.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Converts.cs",
               "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Models\\Converts.cs",
               "RelativeDocumentMoniker": "Bl\\Models\\Converts.cs",
               "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Models\\Converts.cs",
               "RelativeToolTip": "Bl\\Models\\Converts.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAAwOEAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T16:45:30.606Z"
+              "WhenOpened": "2026-04-27T12:20:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Pl Web Api\\Models\\City.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\City.cs",
+              "RelativeToolTip": "Pl Web Api\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:40:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlCompanies.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Models\\BlCompanies.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BlCompanies.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Models\\BlCompanies.cs",
+              "RelativeToolTip": "Bl\\Models\\BlCompanies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:19:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\UserService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Services\\UserService.cs",
+              "RelativeToolTip": "Dal\\Services\\UserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:34:32.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TestsService.cs",
-              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Services\\TestsService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\TestsService.cs",
-              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Services\\TestsService.cs",
-              "RelativeToolTip": "Dal\\Services\\TestsService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwC4AAAAYAAAAAAAAAA==",
+              "Title": "BlAnswersService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Services\\BlAnswersService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\BlAnswersService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Services\\BlAnswersService.cs",
+              "RelativeToolTip": "Bl\\Services\\BlAnswersService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T16:44:27.326Z"
+              "WhenOpened": "2026-04-26T14:30:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlUserService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Services\\BlUserService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\BlUserService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Services\\BlUserService.cs",
+              "RelativeToolTip": "Bl\\Services\\BlUserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:29:49.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Pl Web Api\\Models\\Student.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\Student.cs",
+              "RelativeToolTip": "Pl Web Api\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:40:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbManager.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\DbManager.cs",
+              "RelativeDocumentMoniker": "Pl Web Api\\Models\\DbManager.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Models\\DbManager.cs",
+              "RelativeToolTip": "Pl Web Api\\Models\\DbManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:40:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBlManager.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Api\\IBlManager.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBlManager.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Api\\IBlManager.cs",
+              "RelativeToolTip": "Bl\\Api\\IBlManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:23:22.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlManagerService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Bl\\Services\\BlManagerService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\BlManagerService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Bl\\Services\\BlManagerService.cs",
+              "RelativeToolTip": "Bl\\Services\\BlManagerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:23:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Pl Web Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:41:22.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "D:\\c#\\Project - Copy\\Dal\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\PostsService.cs",
+              "ToolTip": "D:\\c#\\Project - Copy\\Dal\\Services\\PostsService.cs",
+              "RelativeToolTip": "Dal\\Services\\PostsService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:34:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PointTestController.cs",
               "DocumentMoniker": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\PointTestController.cs",
               "RelativeDocumentMoniker": "Pl Web Api\\Controllers\\PointTestController.cs",
               "ToolTip": "D:\\c#\\Project - Copy\\Pl Web Api\\Controllers\\PointTestController.cs",
               "RelativeToolTip": "Pl Web Api\\Controllers\\PointTestController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAkwDIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T16:38:55.705Z"
+              "WhenOpened": "2026-04-21T12:24:46.177Z",
+              "EditorCaption": ""
             }
           ]
         }

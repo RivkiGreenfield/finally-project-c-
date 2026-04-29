@@ -10,6 +10,6 @@ namespace Bl.Api
     public interface IBlManager:IBlCrud<BlManagers>
     {
         public Task<BlManagers> Get(int id);
-
+        public Task<BlManagers> GetByUserId(int userId);
     }
 }

@@ -10,5 +10,6 @@ namespace Dal.Api
     public interface IManager:ICrud<ManagersTbl>
     {
         public Task<ManagersTbl> Get(int id);
+        public Task<ManagersTbl> GetByUserId(int userId);
     }
 }
