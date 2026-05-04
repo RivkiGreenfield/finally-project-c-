@@ -9577,11 +9577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\Project - Copy\\Pl Web Api\\Pl Web Api.csproj",
+      "projectUniqueName": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\Pl Web Api.csproj",
       "projectName": "Pl Web Api",
-      "projectPath": "D:\\c#\\Project - Copy\\Pl Web Api\\Pl Web Api.csproj",
+      "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\Pl Web Api.csproj",
       "packagesPath": "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\Project - Copy\\Pl Web Api\\obj\\",
+      "outputPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9603,8 +9603,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\c#\\Project - Copy\\Bl\\Bl.csproj": {
-              "projectPath": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj"
+            "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj": {
+              "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj"
             }
           }
         }
@@ -9662,5 +9662,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MailKit' 2.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
+      "libraryId": "MailKit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DirA2w2oBc8=",
+  "dgSpecHash": "GrVbSEg3onU=",
   "success": true,
-  "projectFilePath": "D:\\c#\\Project - Copy\\Pl Web Api\\Pl Web Api.csproj",
+  "projectFilePath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\Pl Web Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -166,5 +166,18 @@
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MailKit' 2.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
+      "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\Pl Web Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Pl Web Api\\Pl Web Api.csproj",
+      "libraryId": "MailKit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

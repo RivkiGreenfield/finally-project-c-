@@ -7804,11 +7804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj",
+      "projectUniqueName": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
       "projectName": "Bl",
-      "projectPath": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj",
+      "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
       "packagesPath": "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\Project - Copy\\Bl\\obj\\",
+      "outputPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7830,8 +7830,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\c#\\Project - Copy\\Dal\\Dal.csproj": {
-              "projectPath": "D:\\c#\\Project - Copy\\Dal\\Dal.csproj"
+            "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Dal\\Dal.csproj": {
+              "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Dal\\Dal.csproj"
             }
           }
         }
@@ -7888,6 +7888,16 @@
       "warningLevel": 1,
       "message": "Package 'AutoMapper' 16.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
       "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MailKit' 2.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
+      "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"
       ]

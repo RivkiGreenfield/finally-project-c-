@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yif3B74/M+0=",
+  "dgSpecHash": "o8E8LbKAhPQ=",
   "success": true,
-  "projectFilePath": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj",
+  "projectFilePath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\גרינפלד רבקי\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -145,10 +145,22 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 16.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj",
+      "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\c#\\Project - Copy\\Bl\\Bl.csproj",
+      "filePath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
       "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MailKit' 2.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
+      "projectPath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\גרינפלד רבקי\\source\\repos\\RivkiGreenfield\\finally-project-c-\\Bl\\Bl.csproj",
+      "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"
       ]
