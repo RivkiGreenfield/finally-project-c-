@@ -2156,10 +2156,6 @@
           "confirmed": {
             "type": "boolean"
           },
-          "maxCadidated": {
-            "type": "integer",
-            "format": "int32"
-          },
           "date": {
             "type": "string",
             "format": "date-time"

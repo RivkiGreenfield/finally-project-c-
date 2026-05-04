@@ -142,9 +142,9 @@ namespace Dal.Services
             return true;
         }
 
-        public Task<PropertiesTbl> GetById(int t)
+        public async Task<PropertiesTbl> GetById(int t)
         {
-            throw new NotImplementedException();
+            return _dbManager.PropertiesTbls.ToList().Find(x => x.Id == t);
         }
     }
 }

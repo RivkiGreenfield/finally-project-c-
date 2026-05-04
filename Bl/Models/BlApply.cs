@@ -16,7 +16,7 @@ namespace Bl.Models
         public int PostId { get; set; }
 
         public bool Confirmed { get; set; }
-        public int MaxCadidated { get; set; }
+        //public int MaxCadidated { get; set; }
         public DateTime Date { get; set; }
 
         //public virtual CustomersTbl Cust { get; set; } = null!;
